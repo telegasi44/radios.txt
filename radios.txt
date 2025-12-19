@@ -7,19 +7,20 @@
 Шансон ФМ|https://chanson.hostingradio.ru:8041/chanson128.mp3
 Наше ФМ|https://nashe1.hostingradio.ru/nashe-128.mp3
 Kral FM|https://kralpopradyo.radyotvonline.net/kralpopmp3
-SlowTurk|https://radyo.duhnet.tv/ak_dtvh_slowturk
+SlowTürk|https://radyo.duhnet.tv/ak_dtvh_slowturk
+PowerTürk|https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
 TRT Nagme|https://trt.radyotvonline.net/trtfm
 90 FM İctimai|https://stream.itv.az/rtmp:/radio/playlist.m3u8
 90.7 Yurd FM|https://icecast.livetv.az/yurdfm
 106 FM|https://audiostr.atv.az/106fm
 105.5 FM|https://icecast.livetv.az/mediafm
 Asan FM|https://play.asanradio.az
-Veten|https://stream.zeno.fm/0kgkkzanmueuv
-Saglam FM|https://s24.myradiostream.com/:17446/listen.mp3
+Vətən|https://stream.zeno.fm/0kgkkzanmueuv
+Sağlam FM|https://s24.myradiostream.com/:17446/listen.mp3
 Retro fm|http://5.191.241.101:8000/bakuretrofm
 Hit fm|http://5.191.241.101:8000/bakuhitfm
 Enerji fm|https://icecast.livetv.az/antennfm
-Xezer fm|https://s40.myradiostream.com/:22546/listen.mp3
+Xəzər fm|https://s40.myradiostream.com/:22546/listen.mp3
 Araz fm|https://s14.myradiostream.com/30454/listen.mp3
 AR radio|https://str.yodacdn.net/radio_respublica/tracks-a1/mono.ts.m3u8
 106.3 fm|https://audiostr.atv.az/106.3fm
