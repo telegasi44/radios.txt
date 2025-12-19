@@ -5,7 +5,7 @@
 СПБ ФМ|https://listen2.myradio24.com/2666
 Маруся ФМ|https://spb2.radio-holding.ru/marusya_default
 Шансон ФМ|https://chanson.hostingradio.ru:8041/chanson128.mp3
-Наше Радио|https://nashe1.hostingradio.ru/nashe-128.mp3
+Наше ФМ|https://nashe1.hostingradio.ru/nashe-128.mp3
 Kral FM|https://kralpopradyo.radyotvonline.net/kralpopmp3
 SlowTurk|https://radyo.duhnet.tv/ak_dtvh_slowturk
 TRT Nagme|https://trt.radyotvonline.net/trtfm
