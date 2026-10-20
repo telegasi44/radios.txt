@@ -18,7 +18,7 @@ Asan FM|https://play.asanradio.az
 Vətən|https://stream.zeno.fm/0kgkkzanmueuv
 Sağlam FM|https://s24.myradiostream.com/:17446/listen.mp3
 Retro fm|https://stream.bakuradioalliance.az/retrofm
-Hit fm|http://5.191.241.101:8000/bakuhitfm
+Hit fm|https://stream.bakuradioalliance.az/hitfm
 Enerji fm|https://icecast.livetv.az/antennfm
 Xəzər fm|https://s40.myradiostream.com/:22546/listen.mp3
 Araz fm|https://s14.myradiostream.com/30454/listen.mp3
